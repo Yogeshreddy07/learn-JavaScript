@@ -1,0 +1,19 @@
+#count{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+#btncontainer{
+    text-align: center;
+    }
+.button{
+    padding: 10px 20px;
+    color: aliceblue;
+    background-color: rgb(67, 4, 185);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25ms;
+}
+.button:hover{
+    background-color:rgb(146, 101, 227)
+}
